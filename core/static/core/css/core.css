@@ -1,0 +1,24 @@
+/* font */
+.st-font {
+    font-family: "Satisfy";
+}
+
+html,body {
+    height: 100%;
+}
+
+.container-fluid {
+    min-height: 100%;
+}
+
+/* service icon color */
+
+.i-color {
+    color: aqua;
+}
+
+/* service subtitle color */
+
+.ss-color {
+    color: honeydew;
+}
